@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "90448975706",
+    "project_id": "firbase-auth-7678a",
+    "storage_bucket": "firbase-auth-7678a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90448975706:android:aa410ba574db5e9c4cc563",
+        "android_client_info": {
+          "package_name": "cusat.ddukk.firbaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABPxSAm7VK8QZ0VwDEg9BsNWip1W88gx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
